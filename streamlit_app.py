@@ -8,8 +8,8 @@ import pandas_datareader as data
 from datetime import datetime
 from sklearn.preprocessing import MinMaxScaler
 from keras.models import load_model
-import streamlit as st
 import yfinance as yf
+import streamlit as st
 
 st.set_page_config(
     page_title="Indominus",
