@@ -25,7 +25,7 @@ st.sidebar.header('**Team Members:**')
 st.sidebar.markdown('- **Amit Singh Kushwaha**')
 st.sidebar.markdown('- **Ankit Sonkar**')
 st.sidebar.markdown('- **Deepak Yadav**')
-st.sidebar.markdown('- **Shikhar Mishra**')
+st.sidebar.markdown('- **Akshay Srivastava**')
 
 st.sidebar.header('You can also Check our WebApps:')
 st.sidebar.subheader('[Currency Convertor](https://amit0509.github.io/currencyconvertor/)')
